@@ -1,0 +1,15 @@
+{
+  "name": "competition_analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^1.0.0",
+    "mongodb": "^2.0.46"
+  }
+}
